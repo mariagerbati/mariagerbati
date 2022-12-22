@@ -17,6 +17,6 @@
 </div>
 
 <p style="font-family: arial"><br>
-I'm studying to become a Front End Developer. You can access my portfolio, where I keep my projects until now. Most of it is HTML + CSS, but I am working hard to develop more projects of programming languages. I'm working to improve my English and also studying the Scrum Metodoly, about to get my PSM I.
+I'm studying to become a Front-end Developer. You can access my portfolio, where I keep my projects until now. Most of it is HTML + CSS, but I am working hard to develop more projects of programming languages. I'm working to improve my English and also studying the Scrum Metodoly, about to get my PSM I.
 </p>
 
